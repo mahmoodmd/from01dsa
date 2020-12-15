@@ -1,4 +1,4 @@
-public class Queue<T> {
+public class MyQueue<T> {
 
     private class Node<T> {
         T data = null;
@@ -17,7 +17,7 @@ public class Queue<T> {
 
 
     // [t]-[]-[]-[]-[]-[h]
-    public Queue(){
+    public MyQueue(){
         Node head = null;
         Node tail = null;
     }
@@ -61,7 +61,7 @@ public class Queue<T> {
 
 
     public static void main(String[] args){
-        Queue queue = new Queue();
+        MyQueue queue = new MyQueue();
         queue.add(new String("first"));
         System.out.println("peek->"+ queue.peek());
         queue.add(new String("second"));

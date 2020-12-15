@@ -1,4 +1,4 @@
-public class LinkedList<T extends Comparable<T>> {
+public class MyLinkedList<T extends Comparable<T>> {
 
     private class Node<T extends Comparable<T>> {
         Node next;
@@ -12,7 +12,7 @@ public class LinkedList<T extends Comparable<T>> {
     }
 
     Node<T> head;
-    public LinkedList(){
+    public MyLinkedList(){
         head = null;
     }
 
@@ -64,7 +64,7 @@ public class LinkedList<T extends Comparable<T>> {
     }
 
     public static void main(String[] args){
-        LinkedList linkedList = new LinkedList();
+        MyLinkedList linkedList = new MyLinkedList();
         linkedList.add(new String("first"));
         linkedList.add(new String("second"));
         linkedList.add(new String("third"));
