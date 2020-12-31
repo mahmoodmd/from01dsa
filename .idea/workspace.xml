@@ -25,32 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cc4381c-95d8-438e-9a20-96d6ac7c8d02" name="Default Changelist" comment="remove dup nums">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuildAnimalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaxHeapWithPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinHeapWithPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortedArraySquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0cc4381c-95d8-438e-9a20-96d6ac7c8d02" name="Default Changelist" comment="updates">
+      <change afterPath="$PROJECT_DIR$/BalanceParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KLargestNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MergeSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/from01dsa/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/from01dsa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/from01dsa/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/DataStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/from01dsa/DataStructure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/Queue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/from01dsa/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/from01dsa/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +75,23 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinHeapWithPriorityQueue">
-    <configuration name="LevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LevelOrderTraversal" />
+  <component name="RunManager" selected="Application.BalanceParentheses">
+    <configuration name="BalanceParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalanceParentheses" />
+      <module name="from01dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="from01dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KLargestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KLargestNumbers" />
       <module name="from01dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,20 +99,6 @@
     </configuration>
     <configuration name="MaxHeapWithPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxHeapWithPriorityQueue" />
-      <module name="from01dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeIntervals" />
-      <module name="from01dsa" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
       <module name="from01dsa" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalanceParentheses" />
+        <item itemvalue="Application.KLargestNumbers" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.MinHeapWithPriorityQueue" />
         <item itemvalue="Application.MaxHeapWithPriorityQueue" />
-        <item itemvalue="Application.LevelOrderTraversal" />
-        <item itemvalue="Application.MergeIntervals" />
-        <item itemvalue="Application.MergeSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606643255727</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updates">
+      <created>1608000163853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608000163853</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -228,7 +215,8 @@
     <MESSAGE value="3 version of methods" />
     <MESSAGE value="min sub string" />
     <MESSAGE value="remove dup nums" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove dup nums" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,6 +235,11 @@
           <url>file://$PROJECT_DIR$/RemoveDuplicates.java</url>
           <line>6</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

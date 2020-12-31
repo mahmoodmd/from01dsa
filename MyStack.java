@@ -1,4 +1,4 @@
-public class Stack<T> {
+public class MyStack<T> {
 
     private class Node<T> {
         T data;
@@ -16,7 +16,7 @@ public class Stack<T> {
     private Node top;
 
 
-    public Stack(T data){
+    public MyStack(T data){
         top = new Node<T>(data);
     }
 
@@ -46,7 +46,7 @@ public class Stack<T> {
     }
 
     public static void main(String[] args){
-        Stack<String> stack = new Stack<>("first");
+        MyStack<String> stack = new MyStack<>("first");
         System.out.println("create, peek->"+ stack.peek());
 
         stack.push(new String("second"));
